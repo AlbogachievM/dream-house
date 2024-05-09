@@ -1,3 +1,10 @@
+import styled from "styled-components";
+
+const Main = styled.main`
+  position: relative;
+`
 
 
-const Main = styles
+export const S = {
+    Main,
+}
